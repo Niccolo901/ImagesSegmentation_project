@@ -46,3 +46,8 @@ While both manual and automatic feature extraction methods demonstrate promising
 ### File Structure
 - **Dataset**: Contains binary mask images and `annotations.csv`.
 - **usage.ipynb**: Notebook for manual feature extraction, SVM model training and CNN model training and evaluation.
+
+---
+### Note on Execution
+This project was developed and trained using an NVIDIA A100 GPU for its CNN models, due to the computational demands of training deep learning architectures. While the code is provided and well-documented, re-execution of the CNN models may require access to similar hardware resources. As I cannot re-launch the project before pushing, some output files, like training logs, may not be included in the initial repository.
+
