@@ -45,5 +45,4 @@ While both manual and automatic feature extraction methods demonstrate promising
 
 ### File Structure
 - **Dataset**: Contains binary mask images and `annotations.csv`.
-- **Manual_Feature_Extraction_SVM.ipynb**: Notebook for manual feature extraction and SVM model training.
-- **CNN_Model_Development.ipynb**: Notebook for CNN model training and evaluation.
+- **usage.ipynb**: Notebook for manual feature extraction, SVM model training and CNN model training and evaluation.
